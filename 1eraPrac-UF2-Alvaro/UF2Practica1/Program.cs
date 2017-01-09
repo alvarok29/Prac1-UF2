@@ -12,10 +12,7 @@ namespace UF2Practica1
 
         #region Const values
         //Valors constants
-        #region Constants
-        const int nCaixeres = 3;
-
-        #endregion
+       
 
         //Variable que determina el numero de caixers en funcionament.
         const int maxCax = 5;
